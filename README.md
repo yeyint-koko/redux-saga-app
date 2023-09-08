@@ -19,12 +19,19 @@ npx react-native run-android
 3. Run iOS
 
 ```
+cd ios && pod install && cd ..
 npx react-native run-ios
 ```
 
 #### Github repository
 
 [Link to repo](https://github.com/yeyint-koko/redux-saga-app)
+
+---
+
+### Download apk file
+
+[Download apk](https://github.com/yeyint-koko/redux-saga-app/raw/main/app-release.apk)
 
 ---
 
