@@ -1,0 +1,7 @@
+export const Apis = {
+    getNotification: 'https://mmuat.qhrm.io/MobileApi/MobileApi/GetTeamNotificationByUserId?pageNumber=1&pageSize=10'
+}
+
+export const Token = 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0bWdyMUBnbWFpbC5jb20iLCJqdGkiOiI1OGMxMTI1Zi00NzAwLTRiNTUtODFjMi1hMDgyMTM5NjUxNWMiLCJpYXQiOjE2OTEwNDE0MDMsImVJZCI6IjIwNSIsImNJZCI6IjMiLCJ1SWQiOiI4IiwiZW1haWwiOiJ0ZXN0bWdyMUBnbWFpbC5jb20iLCJuYmYiOjE2OTEwNDE0MDIsImV4cCI6MTY5MTA0MTcwMiwiaXNzIjoiaHR0cHM6Ly9tbXVhdC5xaHJtLmlvLyIsImF1ZCI6Imh0dHBzOi8vbW11YXQucWhybS5pby8ifQ.wtqfiD3vtYv-GkTGWqqfonBPJotI7OB8y63FK5tDFh8'
+
+export const NOTIFICATION_REQUESTED = 'NOTIFICATION_FETCH_REQUESTED'
